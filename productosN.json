@@ -1,5 +1,5 @@
 [
-    {"id":1,"name":"Beers","price":120},
-    {"id":2,"name":"Fernet","price":80},
-    {"id":3,"name":"Wine","price":150}
+    {"id":1,"title":"Escuadra","thumbnail":"https://cdn3.iconfinder.com/data/icons/img1.png","price":45},
+    {"id":2,"title":"Calculadora","thumbnail":"https://cdn3.iconfinder.com/data/icons/img2.png","price":56},
+    {"id":3,"title":"Globo terraqueo","thumbnail":"https://cdn3.iconfinder.com/data/icons/img3.png","price":67}
 ]
